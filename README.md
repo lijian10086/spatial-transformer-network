@@ -108,3 +108,4 @@ h_trans = transformer(x, h_fc1)
 https://blog.csdn.net/qq_14845119/article/details/79510714 本代码对应博文：空间变换网络STN
 https://www.cnblogs.com/liaohuiqiang/p/9226335.html 论文笔记：空间变换网络（Spatial Transformer Networks） 
 https://blog.csdn.net/xholes/article/details/80457210 STN：空间变换网络(Spatial Transformer Network)和pytorch源码
+https://python.ctolib.com/warbean-tps_stn_pytorch.html PyTorch实现包含Thin Plate Spline (TPS)的空间变换网络 (STN)

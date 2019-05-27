@@ -106,3 +106,4 @@ h_trans = transformer(x, h_fc1)
 
 ## 李剑备注：
 https://blog.csdn.net/qq_14845119/article/details/79510714 本代码对应博文：空间变换网络STN
+https://www.cnblogs.com/liaohuiqiang/p/9226335.html 论文笔记：空间变换网络（Spatial Transformer Networks） 

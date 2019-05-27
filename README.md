@@ -110,3 +110,5 @@ https://www.cnblogs.com/liaohuiqiang/p/9226335.html 论文笔记：空间变换�
 https://blog.csdn.net/xholes/article/details/80457210 STN：空间变换网络(Spatial Transformer Network)和pytorch源码
 https://python.ctolib.com/warbean-tps_stn_pytorch.html PyTorch实现包含Thin Plate Spline (TPS)的空间变换网络 (STN)
 https://zhuanlan.zhihu.com/p/46751261 Spatial Transformer Networks空间变换网络stn微观理解
+https://blog.csdn.net/Rosemary_tu/article/details/84069878 空间变换网络(STN)原理+2D图像空间变换+齐次坐标系讲解+应用讲解
+https://blog.csdn.net/qq_39422642/article/details/78870629 详细解读Spatial Transformer Networks（STN）-一篇文章让你完全理解STN了

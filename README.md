@@ -103,3 +103,6 @@ h_trans = transformer(x, h_fc1)
 - [Torch Blog Post on STN's](http://torch.ch/blog/2015/09/07/spatial_transformers.html)
 - [daviddao's Tensorflow Implementation](https://github.com/daviddao/spatial-transformer-tensorflow)
 - Shoutout to [Eder Santana](https://twitter.com/edersantana) for introducing and helping me understand the paper!
+
+## 李剑备注：
+https://blog.csdn.net/qq_14845119/article/details/79510714 本代码对应博文：空间变换网络STN
